@@ -5,18 +5,7 @@ modified: '2020-06-27T13:31'
 ---
 
 # CMGT-PRG04-summary
-_**Object Oriented Game Development - TypeScript**_
-
-
-_text_
-*text*
-~text~
-```text```
-
-_text_
-**text**
-~~text~~
-```text```
+_**Object Oriented Game Development - TypeScript**_\
 
 ## Leerdoelen
 
